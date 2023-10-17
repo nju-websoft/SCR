@@ -1,0 +1,193 @@
+{
+  "Contact.Broadcast": [
+    "Entity",
+    "Place",
+    "Audience"
+  ],
+  "Justice.Trial-Hearing": [
+    "Defendant",
+    "Adjudicator",
+    "Place",
+    "Prosecutor"
+  ],
+  "Justice.Convict": [
+    "Defendant",
+    "Place",
+    "Adjudicator"
+  ],
+  "Personnel.End-Position": [
+    "Person",
+    "Entity",
+    "Place"
+  ],
+  "Justice.Sentence": [
+    "Defendant",
+    "Adjudicator",
+    "Place"
+  ],
+  "Conflict.Attack": [
+    "Place",
+    "Attacker",
+    "Target",
+    "Instrument"
+  ],
+  "Justice.Release-Parole": [
+    "Person",
+    "Place",
+    "Agent"
+  ],
+  "Life.Die": [
+    "Victim",
+    "Place",
+    "Instrument",
+    "Agent"
+  ],
+  "Movement.Transport-Person": [
+    "Agent",
+    "Destination",
+    "Origin",
+    "Person",
+    "Instrument"
+  ],
+  "Justice.Arrest-Jail": [
+    "Person",
+    "Place",
+    "Agent"
+  ],
+  "Transaction.Transfer-Ownership": [
+    "Recipient",
+    "Thing",
+    "Giver",
+    "Place",
+    "Beneficiary"
+  ],
+  "Contact.Correspondence": [
+    "Entity",
+    "Place"
+  ],
+  "Justice.Charge-Indict": [
+    "Defendant",
+    "Prosecutor",
+    "Place",
+    "Adjudicator"
+  ],
+  "Justice.Acquit": [
+    "Defendant",
+    "Adjudicator",
+    "Place"
+  ],
+  "Justice.Appeal": [
+    "Adjudicator",
+    "Defendant",
+    "Prosecutor"
+  ],
+  "Transaction.Transfer-Money": [
+    "Giver",
+    "Recipient",
+    "Place",
+    "Beneficiary"
+  ],
+  "Life.Marry": [
+    "Person",
+    "Place"
+  ],
+  "Life.Divorce": [
+    "Person",
+    "Place"
+  ],
+  "Contact.Meet": [
+    "Entity",
+    "Place"
+  ],
+  "Personnel.Elect": [
+    "Person",
+    "Agent",
+    "Place"
+  ],
+  "Justice.Extradite": [
+    "Destination",
+    "Person",
+    "Agent",
+    "Origin"
+  ],
+  "Contact.Contact": [
+    "Entity",
+    "Place"
+  ],
+  "Movement.Transport-Artifact": [
+    "Agent",
+    "Destination",
+    "Origin",
+    "Artifact"
+  ],
+  "Transaction.Transaction": [
+    "Beneficiary",
+    "Giver",
+    "Recipient",
+    "Place"
+  ],
+  "Conflict.Demonstrate": [
+    "Entity",
+    "Place"
+  ],
+  "Life.Injure": [
+    "Agent",
+    "Victim",
+    "Instrument",
+    "Place"
+  ],
+  "Business.Start-Org": [
+    "Agent",
+    "Org",
+    "Place"
+  ],
+  "Personnel.Nominate": [
+    "Person",
+    "Agent"
+  ],
+  "Justice.Pardon": [
+    "Adjudicator",
+    "Defendant",
+    "Place"
+  ],
+  "Justice.Sue": [
+    "Plaintiff",
+    "Defendant",
+    "Place",
+    "Adjudicator"
+  ],
+  "Business.Merge-Org": [
+    "Org"
+  ],
+  "Personnel.Start-Position": [
+    "Person",
+    "Entity",
+    "Place"
+  ],
+  "Life.Be-Born": [
+    "Person",
+    "Place"
+  ],
+  "Business.End-Org": [
+    "Org",
+    "Place"
+  ],
+  "Business.Declare-Bankruptcy": [
+    "Org"
+  ],
+  "Justice.Fine": [
+    "Entity",
+    "Place",
+    "Adjudicator"
+  ],
+  "Justice.Execute": [
+    "Person",
+    "Place",
+    "Agent"
+  ],
+  "Manufacture.Artifact": [
+    "Artifact",
+    "Agent",
+    "Place"
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "Conflict.Attack": [
+    "Place",
+    "Target",
+    "Instrument",
+    "Attacker",
+    "Victim",
+    "Agent"
+  ],
+  "Movement.Transport": [
+    "Artifact",
+    "Origin",
+    "Destination",
+    "Vehicle",
+    "Agent",
+    "Victim",
+    "Place"
+  ],
+  "Life.Die": [
+    "Victim",
+    "Agent",
+    "Place",
+    "Instrument",
+    "Person"
+  ],
+  "Contact.Phone-Write": [
+    "Entity",
+    "Place"
+  ],
+  "Life.Injure": [
+    "Instrument",
+    "Victim",
+    "Place",
+    "Agent"
+  ],
+  "Contact.Meet": [
+    "Entity",
+    "Place"
+  ],
+  "Personnel.End-Position": [
+    "Person",
+    "Entity",
+    "Place"
+  ],
+  "Justice.Arrest-Jail": [
+    "Agent",
+    "Person",
+    "Place"
+  ],
+  "Transaction.Transfer-Ownership": [
+    "Artifact",
+    "Buyer",
+    "Seller",
+    "Place",
+    "Beneficiary"
+  ],
+  "Personnel.Elect": [
+    "Person",
+    "Place",
+    "Entity"
+  ],
+  "Life.Marry": [
+    "Person",
+    "Place"
+  ],
+  "Business.Start-Org": [
+    "Org",
+    "Agent",
+    "Place"
+  ],
+  "Justice.Charge-Indict": [
+    "Adjudicator",
+    "Defendant",
+    "Prosecutor",
+    "Place"
+  ],
+  "Conflict.Demonstrate": [
+    "Entity",
+    "Place"
+  ],
+  "Business.End-Org": [
+    "Place",
+    "Org"
+  ],
+  "Justice.Execute": [
+    "Agent",
+    "Place",
+    "Person"
+  ],
+  "Justice.Sue": [
+    "Plaintiff",
+    "Defendant",
+    "Place",
+    "Adjudicator"
+  ],
+  "Transaction.Transfer-Money": [
+    "Giver",
+    "Recipient",
+    "Beneficiary",
+    "Place"
+  ],
+  "Justice.Trial-Hearing": [
+    "Defendant",
+    "Prosecutor",
+    "Place",
+    "Adjudicator"
+  ],
+  "Justice.Sentence": [
+    "Adjudicator",
+    "Defendant",
+    "Place"
+  ],
+  "Personnel.Start-Position": [
+    "Person",
+    "Entity",
+    "Place"
+  ],
+  "Justice.Fine": [
+    "Entity",
+    "Place",
+    "Adjudicator"
+  ],
+  "Personnel.Nominate": [
+    "Person",
+    "Agent"
+  ],
+  "Life.Be-Born": [
+    "Place",
+    "Person"
+  ],
+  "Justice.Release-Parole": [
+    "Person",
+    "Entity",
+    "Place"
+  ],
+  "Business.Declare-Bankruptcy": [
+    "Org",
+    "Place"
+  ],
+  "Justice.Convict": [
+    "Defendant",
+    "Place",
+    "Adjudicator"
+  ],
+  "Business.Merge-Org": [
+    "Org"
+  ],
+  "Life.Divorce": [
+    "Person",
+    "Place"
+  ],
+  "Justice.Acquit": [
+    "Defendant",
+    "Adjudicator"
+  ],
+  "Justice.Appeal": [
+    "Adjudicator",
+    "Plaintiff",
+    "Place"
+  ],
+  "Justice.Extradite": [
+    "Person",
+    "Origin",
+    "Destination",
+    "Agent"
+  ],
+  "Justice.Pardon": [
+    "Defendant",
+    "Adjudicator",
+    "Place"
+  ]
+}

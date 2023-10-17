@@ -1,0 +1,10 @@
+{
+    "Sport":[
+        {
+            "sentence": ["Sam", "runs", "."], 
+            "s_start": 0, 
+            "ner": [], 
+            "event": [{"text": "runs", "start": 1, "end": 2, "type": "Sport"}, []]
+        }
+        ]
+}
