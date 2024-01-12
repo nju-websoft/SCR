@@ -1,10 +1,10 @@
 # SCR
 
-Hi! This is the repository for the EMNLP 2023 oral paper: Continual Event Extraction with Semantic Confusion Rectification.
+Hi! This is the repository for the EMNLP 2023 oral paper: [Continual Event Extraction with Semantic Confusion Rectification](https://aclanthology.org/2023.emnlp-main.732.pdf).
 
 ## Requirements
 
-Please make sure you have installed the packages in ./environment.yml
+Please make sure you have installed the packages in [./environment.yml](https://github.com/nju-websoft/SCR/blob/main/environment.yml).
 
 ## Data Preprocessing
 
@@ -14,7 +14,7 @@ For ACE and ERE datasets, please first follow [OneIE](https://github.com/GerlinG
 
 ## Pretrained Models
 
-Download pretrained language model from [huggingface](https://huggingface.co/bert-base-uncased) and put it into the `./pertrain_model directory.
+Download pretrained language model from [huggingface](https://huggingface.co/bert-base-uncased) and put it into the [./pertrain_model directory](https://github.com/nju-websoft/SCR/tree/main/pretrain_model).
 
 ## Training and Testing
 
