@@ -10,7 +10,7 @@ Please make sure you have installed the packages in [./environment.yml](https://
 
 We use the ACE, ERE and MAVEN datasets for evaluation. Due to that the ACE and ERE datasets are not released publicly, we can't provide the dataset after processing. You can obtain the MAVEN datasets after processing through this [link]( https://drive.google.com/file/d/1-Zud2K_X0cmffwXAMBZ_WwNd9u88vHEE/view?usp=drive_link).
 
-For ACE and ERE datasets, please first follow [OneIE](https://github.com/GerlinGreen/OneIE) to process the dataset. Then you should process the data format to be like data/{DATASET_NAME}+/toy.json and name them "train.json", "valid.json", "test.json", respectively.
+For ACE and ERE datasets, please first follow [OneIE](https://github.com/GerlinGreen/OneIE) to process the dataset. Then you should process the data format to be like ./data/{DATASET_NAME}+/toy.json and name them "train.json", "valid.json", "test.json", respectively.
 
 ## Pretrained Models
 
